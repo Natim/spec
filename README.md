@@ -52,6 +52,7 @@ From ourselves and the community!
 | [Elixir](https://github.com/merongivian/ulid) | [merongivian](https://github.com/merongivian) |
 | [Elixir](https://github.com/omisego/ex_ulid) | [omisego](https://github.com/omisego) | ✓ |
 | [Elixir (Ecto)](https://github.com/TheRealReal/ecto-ulid) | [dcuddeback](https://github.com/dcuddeback) | ✓ |
+| [Elm-lang](https://package.elm-lang.org/packages/kyasu1/elm-ulid/latest/) | [kyasu1](https://github.com/kyasu1) | ✓ |
 | [F#](https://github.com/lucasschejtman/FSharp.Ulid) | [lucasschejtman](https://github.com/lucasschejtman) |
 | [Factor](https://github.com/AlexIljin/ulid) | [Alexander Ilin](https://github.com/AlexIljin) | ✓ |
 | [Go](https://github.com/oklog/ulid) | [oklog](https://github.com/oklog) | ✓ |
